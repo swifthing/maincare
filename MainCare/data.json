@@ -1,0 +1,162 @@
+{
+  "correspondances": [
+    {
+      "id" : 1,
+      "titre": "Avis des plaies",
+      "type": "group",
+      "favorite": true,
+      "recipients": [
+        {
+          "firstname": "Bernard",
+          "lastname": "Michel",
+          "image": "",
+          "id": 3
+        },
+        {
+          "firstname": "Magalie",
+          "lastname": "Dubois",
+          "image": "",
+          "id": 520
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Dupond",
+          "image": "",
+          "id": 432
+        }
+      ],
+      "messages": [
+        {
+          "sender_id": 432,
+          "date": "2019-01-27T14:33:21.813Z",
+          "text": "Bonjour à tous, je souhaite que nous évoquions le cas de Mme Michu qui à une grosse vérue plantaire.",
+          "attachments": [
+            {
+              "url": "",
+              "miniature": "",
+              "mimetype": ""
+            }
+          ]
+        },
+        {
+          "sender_id": 520,
+          "date": "2019-01-27T15:00:21.813Z",
+          "text": "Oui pas de soucis, de quelles informations avez-vous besoin ?",
+          "attachments": [
+            {
+              "url": "",
+              "miniature": "",
+              "mimetype": ""
+            }
+          ]
+        },
+        {
+          "sender_id": 3,
+          "date": "2019-01-27T16:33:21.813Z",
+          "text": "Je vais être en congé pendant une semaine là donc commencez sans moi...",
+          "attachments": [
+            {
+              "url": "",
+              "miniature": "",
+              "mimetype": ""
+            }
+          ]
+        },
+        {
+          "sender_id": 432,
+          "date": "2019-01-27T16:35:21.813Z",
+          "text": "Voici la vérue",
+          "attachments": [
+            {
+              "url": "http://traitements-verrues.com/wp-content/uploads/2012/06/traiter-verrue-plantaire.jpg",
+              "miniature": "http://traitements-verrues.com/wp-content/uploads/2012/06/traiter-verrue-plantaire.jpg",
+              "mimetype": "image/jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+        "id" : 2,
+      "titre": "Organisation du service",
+      "type": "group",
+      "favorite": false,
+      "recipients": [
+        {
+          "firstname": "Bernard",
+          "lastname": "Michel",
+          "image": "",
+          "id": 3
+        },
+        {
+          "firstname": "Magalie",
+          "lastname": "Dubois",
+          "image": "",
+          "id": 520
+        },
+        {
+          "firstname": "Paul",
+          "lastname": "Dupond",
+          "image": "",
+          "id": 432
+        },
+        {
+          "firstname": "Colette",
+          "lastname": "Brutijus",
+          "image": "",
+          "id": 879
+        }
+      ],
+      "messages": [
+        {
+          "sender_id": 879,
+          "date": "2019-01-03T09:33:21.813Z",
+          "text": "Bonjour, je pense qu'ouvrir un canal de discussion interne au service de podologie peut-être une bonne idée, donc voilà je le créé ;)",
+          "attachments": [
+            {
+              "url": "",
+              "miniature": "",
+              "mimetype": ""
+            }
+          ]
+        },
+        {
+          "sender_id": 520,
+          "date": "2019-01-03T09:35:21.813Z",
+          "text": "Bonne idée et surtout BONNE ANNEE !!! XDXD ",
+          "attachments": [
+            {
+              "url": "",
+              "miniature": "",
+              "mimetype": ""
+            }
+          ]
+        },
+        {
+          "sender_id": 432,
+          "date": "2019-01-03T10:00:21.813Z",
+          "text": "LOL bonnée année les filles. \n\n\n Bon sinon oui pendant les vacances La route a été longue (près de 8h30), mais ça en valait le coup pour fêter le réveillon chez Lulu et voir mes petits cousins et cousines. Vous me voyez ici en compagnie d'Océane (celle du milieu qui nous fournissait les biscuits de façon à nous faire tenir tranquille!) et Delphine. Le 26 décembre, nous sommes revenus à Matane pour recevoir la visite de Pascal et Sandra avec qui nous sommes allés faire une randonnée de raquette.",
+          "attachments": [
+            {
+              "url": "",
+              "miniature": "",
+              "mimetype": ""
+            }
+          ]
+        },
+        {
+          "sender_id": 3,
+          "date": "2019-01-03T11:33:21.813Z",
+          "text": "Et donc on raconte nos vacances ici ??",
+          "attachments": [
+            {
+              "url": "",
+              "miniature": "",
+              "mimetype": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
